@@ -1,4 +1,4 @@
-# web_video_3
+# Mokz-video-player-app
 
 A new Flutter project.
 
