@@ -1,0 +1,2 @@
+var thumbnails = [];
+var videiList = [];

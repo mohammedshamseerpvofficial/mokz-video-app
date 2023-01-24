@@ -1,0 +1,4 @@
+#Tue Jan 24 21:07:15 IST 2023
+base.0=/Users/jivrom/Desktop/jivrom projects/Actfit-arena-dark/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
